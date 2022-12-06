@@ -15,4 +15,4 @@ while (contador < 9) {
 
     console.log(contador);
 
-}
+} 
